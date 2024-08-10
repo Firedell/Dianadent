@@ -56,7 +56,7 @@ nav li :hover {
 
 .main-content {
   height: 600px;
-  background-image: url(/img/bg_img.png);
+  background-image: url(img/bg_img.png);
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
